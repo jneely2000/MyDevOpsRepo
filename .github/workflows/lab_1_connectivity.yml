@@ -27,3 +27,4 @@ jobs:
         inlineScript: |
           chmod +x ./lab_1/list_resourcegroups.sh
           ./lab_1/list_resourcegroups.sh
+
